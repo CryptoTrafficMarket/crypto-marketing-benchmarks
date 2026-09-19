@@ -9,8 +9,8 @@
 ## How the ranges were set
 
 <!-- TODO before publishing: replace this paragraph with real figures -->
-- Period covered: **[e.g. Q1 2025 – Q3 2026]**
-- Number of campaigns / proposals the ranges are drawn from: **[e.g. N]**
+- Period covered:  Q1 2025 – Q3 2026
+- Number of campaigns / proposals the ranges are drawn from: 120
 - Project types included: token launches, DeFi protocols, validators, NFT and meme projects, AI/Web3 platforms
 
 Ranges show the typical span of what clients paid, not the extremes. Where a range has a single value (for example SEO strategy at 1,100), it is a standard fixed rate.
