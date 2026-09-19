@@ -1,0 +1,142 @@
+[
+  {
+    "channel": "Paid search & display (PPC)",
+    "segment": "Crypto ad networks",
+    "pricing_model": "media + management",
+    "cost_min_usd": 1500,
+    "cost_max_usd": 3000,
+    "cost_unit": "per month (media spend)",
+    "management_fee_usd_per_month": 1100,
+    "notes": "Pre-lander recommended; sending raw ad traffic straight into Telegram raises the bot ratio."
+  },
+  {
+    "channel": "Banner & native advertising",
+    "segment": "Crypto ad networks and media",
+    "pricing_model": "media + management",
+    "cost_min_usd": 1000,
+    "cost_max_usd": 2500,
+    "cost_unit": "per month (media spend)",
+    "management_fee_usd_per_month": 900,
+    "notes": "Rates vary by placement position and site tier."
+  },
+  {
+    "channel": "PR & sponsored content",
+    "segment": "Mid-tier crypto media",
+    "pricing_model": "placement bundle + coordination",
+    "cost_min_usd": 1500,
+    "cost_max_usd": 3000,
+    "cost_unit": "per month (2-4 placements)",
+    "management_fee_usd_per_month": 600,
+    "notes": "Tier-1 crypto media (Cointelegraph / BeInCrypto tier) is outside this range; expect several thousand USD per placement."
+  },
+  {
+    "channel": "Influencer / KOL campaigns",
+    "segment": "Accounts up to ~100k followers",
+    "pricing_model": "per campaign",
+    "cost_min_usd": 1500,
+    "cost_max_usd": 5000,
+    "cost_unit": "per campaign",
+    "management_fee_usd_per_month": null,
+    "notes": "Upper bound is open-ended. Price depends on audience quality and number of placements."
+  },
+  {
+    "channel": "X & Telegram growth",
+    "segment": "Basic",
+    "pricing_model": "retainer",
+    "cost_min_usd": 1000,
+    "cost_max_usd": 2000,
+    "cost_unit": "per month",
+    "management_fee_usd_per_month": null,
+    "notes": null
+  },
+  {
+    "channel": "X & Telegram growth",
+    "segment": "Accelerated",
+    "pricing_model": "retainer",
+    "cost_min_usd": 2000,
+    "cost_max_usd": 4000,
+    "cost_unit": "per month",
+    "management_fee_usd_per_month": null,
+    "notes": null
+  },
+  {
+    "channel": "Crypto forum presence",
+    "segment": "Thread setup",
+    "pricing_model": "one-time",
+    "cost_min_usd": 1350,
+    "cost_max_usd": 1500,
+    "cost_unit": "one-time",
+    "management_fee_usd_per_month": null,
+    "notes": "Bitcointalk is priced as a separate line item."
+  },
+  {
+    "channel": "Crypto forum presence",
+    "segment": "Ongoing posting",
+    "pricing_model": "retainer",
+    "cost_min_usd": 600,
+    "cost_max_usd": 600,
+    "cost_unit": "per month",
+    "management_fee_usd_per_month": null,
+    "notes": "Covers AltcoinTalks / CryptoTalk / MMGP / Reddit alongside Bitcointalk."
+  },
+  {
+    "channel": "Tracker & listing placement",
+    "segment": "CoinMarketCap / CoinGecko / aggregators",
+    "pricing_model": "one-time",
+    "cost_min_usd": 800,
+    "cost_max_usd": 1500,
+    "cost_unit": "one-time",
+    "management_fee_usd_per_month": null,
+    "notes": "Excludes any fees charged directly by the platform."
+  },
+  {
+    "channel": "Partnership outreach",
+    "segment": "Ecosystem and project partnerships",
+    "pricing_model": "retainer",
+    "cost_min_usd": 1000,
+    "cost_max_usd": 2000,
+    "cost_unit": "per month",
+    "management_fee_usd_per_month": null,
+    "notes": "Outreach labour only."
+  },
+  {
+    "channel": "Email & B2B outreach",
+    "segment": "Cold and warm outreach",
+    "pricing_model": "retainer",
+    "cost_min_usd": 900,
+    "cost_max_usd": 1500,
+    "cost_unit": "per month",
+    "management_fee_usd_per_month": null,
+    "notes": null
+  },
+  {
+    "channel": "Investor & fund outreach",
+    "segment": "VC and fund targeting",
+    "pricing_model": "per campaign",
+    "cost_min_usd": 1500,
+    "cost_max_usd": 3000,
+    "cost_unit": "per campaign",
+    "management_fee_usd_per_month": null,
+    "notes": "Outreach only; no guarantee of meetings or terms."
+  },
+  {
+    "channel": "SEO & GEO",
+    "segment": "Strategy and technical work",
+    "pricing_model": "retainer",
+    "cost_min_usd": 1100,
+    "cost_max_usd": 1100,
+    "cost_unit": "per month",
+    "management_fee_usd_per_month": null,
+    "notes": "GEO = visibility in AI-generated answers."
+  },
+  {
+    "channel": "SEO & GEO",
+    "segment": "Content and backlinks",
+    "pricing_model": "retainer",
+    "cost_min_usd": 300,
+    "cost_max_usd": 800,
+    "cost_unit": "per month",
+    "management_fee_usd_per_month": null,
+    "notes": "Added on top of the strategy retainer."
+  }
+]

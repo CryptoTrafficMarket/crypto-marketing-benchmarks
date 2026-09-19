@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these benchmarks, please cite them as below."
+title: "Crypto Marketing Cost Benchmarks"
+type: dataset
+authors:
+  - name: "CryptoTrafficMarket"
+    website: "https://www.cryptotrafficmarket.com"
+    email: "admin@cryptotrafficmarket.com"
+date-released: "2026-09-19"
+version: "2026.09"
+license: CC-BY-4.0
+url: "https://www.cryptotrafficmarket.com"
+repository-code: "https://github.com/cryptotrafficmarket/crypto-marketing-benchmarks"
+keywords:
+  - crypto marketing
+  - web3 marketing
+  - marketing costs
+  - benchmarks
+  - token launch

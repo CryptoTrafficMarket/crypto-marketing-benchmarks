@@ -1,0 +1,37 @@
+[
+  {
+    "tier": "Market test",
+    "budget_min_usd": 0,
+    "budget_max_usd": 1000,
+    "typical_goal": "Check whether anyone reacts to the offer",
+    "typical_channels": "Light Telegram/X activity; a few tracker listings; one email send"
+  },
+  {
+    "tier": "First social proof",
+    "budget_min_usd": 1000,
+    "budget_max_usd": 3000,
+    "typical_goal": "Make channels look alive before launch",
+    "typical_channels": "Telegram and X growth; forums; tracker listings; first native placements"
+  },
+  {
+    "tier": "Multi-channel campaign",
+    "budget_min_usd": 3000,
+    "budget_max_usd": 7500,
+    "typical_goal": "Reach users at several touchpoints over 30 days",
+    "typical_channels": "Native and banner ads; Tier 2/3 influencers; PR placements; listings; email"
+  },
+  {
+    "tier": "Growth campaign",
+    "budget_min_usd": 7500,
+    "budget_max_usd": 15000,
+    "typical_goal": "Scale holders and investor awareness",
+    "typical_channels": "PR; KOLs; PPC; community management; GEO content; expanded listings"
+  },
+  {
+    "tier": "Authority campaign",
+    "budget_min_usd": 15000,
+    "budget_max_usd": null,
+    "typical_goal": "Build market authority ahead of a listing or raise",
+    "typical_channels": "Tier 1/2 PR; multiple influencers; paid media; dedicated community management"
+  }
+]

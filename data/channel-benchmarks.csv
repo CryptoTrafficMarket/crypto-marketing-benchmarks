@@ -1,0 +1,15 @@
+channel,segment,pricing_model,cost_min_usd,cost_max_usd,cost_unit,management_fee_usd_per_month,notes
+Paid search & display (PPC),Crypto ad networks,media + management,1500,3000,per month (media spend),1100,Pre-lander recommended; sending raw ad traffic straight into Telegram raises the bot ratio.
+Banner & native advertising,Crypto ad networks and media,media + management,1000,2500,per month (media spend),900,Rates vary by placement position and site tier.
+PR & sponsored content,Mid-tier crypto media,placement bundle + coordination,1500,3000,per month (2-4 placements),600,Tier-1 crypto media (Cointelegraph / BeInCrypto tier) is outside this range; expect several thousand USD per placement.
+Influencer / KOL campaigns,Accounts up to ~100k followers,per campaign,1500,5000,per campaign,,Upper bound is open-ended. Price depends on audience quality and number of placements.
+X & Telegram growth,Basic,retainer,1000,2000,per month,,
+X & Telegram growth,Accelerated,retainer,2000,4000,per month,,
+Crypto forum presence,Thread setup,one-time,1350,1500,one-time,,Bitcointalk is priced as a separate line item.
+Crypto forum presence,Ongoing posting,retainer,600,600,per month,,Covers AltcoinTalks / CryptoTalk / MMGP / Reddit alongside Bitcointalk.
+Tracker & listing placement,CoinMarketCap / CoinGecko / aggregators,one-time,800,1500,one-time,,Excludes any fees charged directly by the platform.
+Partnership outreach,Ecosystem and project partnerships,retainer,1000,2000,per month,,Outreach labour only.
+Email & B2B outreach,Cold and warm outreach,retainer,900,1500,per month,,
+Investor & fund outreach,VC and fund targeting,per campaign,1500,3000,per campaign,,Outreach only; no guarantee of meetings or terms.
+SEO & GEO,Strategy and technical work,retainer,1100,1100,per month,,GEO = visibility in AI-generated answers.
+SEO & GEO,Content and backlinks,retainer,300,800,per month,,Added on top of the strategy retainer.
